@@ -1,0 +1,12 @@
+com/example/SpringDataPostgre/controller/restapi.class
+com/example/SpringDataPostgre/rabbit/listener/NotificationListener.class
+com/example/SpringDataPostgre/service/kisiService.class
+com/example/SpringDataPostgre/configuration/SwaggerConfig.class
+com/example/SpringDataPostgre/entity/kisi.class
+com/example/SpringDataPostgre/SpringDataPostgreApplication.class
+com/example/SpringDataPostgre/entity/adres.class
+com/example/SpringDataPostgre/repository/kisiRepository.class
+com/example/SpringDataPostgre/rabbit/producer/NotificationProducer.class
+com/example/SpringDataPostgre/repository/adresRepository.class
+com/example/SpringDataPostgre/dto/kisiDto.class
+com/example/SpringDataPostgre/rabbit/Notification.class

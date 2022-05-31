@@ -1,0 +1,12 @@
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/rabbit/Notification.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/SpringDataPostgreApplication.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/rabbit/producer/NotificationProducer.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/entity/kisi.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/rabbit/listener/NotificationListener.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/controller/restapi.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/repository/kisiRepository.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/service/kisiService.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/repository/adresRepository.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/dto/kisiDto.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/configuration/SwaggerConfig.java
+/Users/gorkem.aykac/Documents/Github/SpringDataPostgre/src/main/java/com/example/SpringDataPostgre/entity/adres.java
